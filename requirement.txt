@@ -1,6 +1,0 @@
-tavily-python
-groq
-streamlit
-python-dotenv
-reportlab
-google-genai
