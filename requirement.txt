@@ -1,0 +1,8 @@
+Requirement : 
+google-genai
+tavily-python
+groq
+streamlit
+python-dotenv
+reportlab
+anthropic
